@@ -1,4 +1,4 @@
-# Estrucutra del repositorio
+# Estructura del repositorio
 ## img
 Imágenes del resúmen. Carpeta que contiene el dataset completo de las imágenes originales
 ## pdf
