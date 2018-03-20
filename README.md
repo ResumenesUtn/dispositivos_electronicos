@@ -4,5 +4,5 @@ Imágenes del resúmen. Carpeta que contiene el dataset completo de las imágene
 ## pdf
 Imágenes convertidas a pdf con el comando: 
 ```bash
-convert -quality 20 *.pdf salida.pdf
+convert -quality 20 *.jpg salida.pdf
 ```
